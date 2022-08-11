@@ -89,7 +89,7 @@ set global secure_file_prive=""
 show variables like 'general_log';
 
 # 开启日志功能
-set global geeral_log=on;
+set global general_log=on;
 
 # 查看文件日志保存位置
 show variables like 'general_log_file';
